@@ -1,0 +1,6 @@
+{
+  "name": "OCDEC — Digital Agency & Client Portal",
+  "description": "OCDEC combines web development, AI automation, creative media, and digital design to build intentional digital systems with client portal and workflow management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
